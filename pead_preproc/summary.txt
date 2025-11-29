@@ -1,0 +1,19 @@
+Linhas totais: 4,919
+Train: 2,881  Val: 499  Test: 1,539
+Nº de features usadas: 88
+Primeiras 15 features:
+  - RL_MET
+  - RL_Q_Change
+  - RL_Y_Change
+  - LL_MET
+  - LL_Q_Change
+  - LL_Y_Change
+  - EBITDA_MET
+  - EBITDA_Q_Change
+  - EBITDA_Y_Change
+  - Preco_Abertura_MET
+  - Preco_Abertura_Q_Change
+  - Preco_Abertura_Y_Change
+  - Preco_Fechamento_MET
+  - Preco_Fechamento_Q_Change
+  - Preco_Fechamento_Y_Change

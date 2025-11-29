@@ -1,0 +1,20 @@
+{
+  "used_params": {
+    "n_estimators": 500,
+    "max_depth": 5,
+    "learning_rate": 0.05,
+    "subsample": 0.8,
+    "colsample_bytree": 0.8,
+    "min_child_weight": 5,
+    "reg_lambda": 1.0,
+    "reg_alpha": 0.0,
+    "random_state": 42,
+    "n_jobs": -1,
+    "tree_method": "hist",
+    "eval_metric": "auc"
+  },
+  "metrics_test": {
+    "AUC": 0.5623045323145064,
+    "ACC": 0.543859649122807
+  }
+}
