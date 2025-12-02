@@ -1,0 +1,6 @@
+Year,SectorName,Feature,OccurrenceCount,NormalizedImportanceMean,F_label
+2018,Consumo Cíclico,MA5,100,0.026631795603857943,F1
+2018,Consumo Cíclico,MA50,100,0.021587432411503696,F2
+2018,Consumo Cíclico,AT_MET,100,0.01666841830012549,F3
+2018,Consumo Cíclico,MA200,100,0.01663990555005641,F4
+2018,Consumo Cíclico,Divida_Liquida_MET,100,0.014584637968069263,F5
